@@ -20,12 +20,12 @@ Nivo is a rich set of dataviz components, built on top of the D3 and React libra
 
 <!-- You can add an image here if you have one -->
 
-## 3. [Insert Tool Name]
+## 3. react DaD
 
 [Insert Tool Description Here]
 
-- **URL:** [Insert Tool URL Here]
-- **Detail:** [Insert Tool Detail Here]
+- **URL:** [https://react-dnd.github.io/react-dnd/about]
+- **Detail:** tool for Drag and drap
 
 <!-- You can repeat this pattern for additional tools -->
 
